@@ -1,14 +1,11 @@
-#Same Origin Policy
-https://en.wikipedia.org/wiki/Same-origin_policy
-
+##Same Origin Policy
+同源: 协议，域名，端口相同
+同源策略: 由Netscape提出的一个著名的安全策略，现在所有支持JavaScript的浏览器都会使用这个策略。
+[https://en.wikipedia.org/wiki/Same-origin_policy](https://en.wikipedia.org/wiki/Same-origin_policy)
 
 
 #CORS (Cross-Origin Resource Sharing)
-同源: 协议，域名，端口相同
-同源策略: 由Netscape提出的一个著名的安全策略，现在所有支持JavaScript的浏览器都会使用这个策略。
 https://www.w3.org/TR/cors/
-
-
 
 
 #nginx configuration
