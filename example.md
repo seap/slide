@@ -1,3 +1,14 @@
+#Same Origin Policy
+https://en.wikipedia.org/wiki/Same-origin_policy
+
+
+
+#CORS (Cross-Origin Resource Sharing)
+https://www.w3.org/TR/cors/
+
+
+
+
 #nginx配置
 ```
 if ($http_origin ~ haiziwang\.com(:\d+)?$) {
