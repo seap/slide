@@ -9,7 +9,7 @@ https://www.w3.org/TR/cors/
 
 
 
-#nginx配置
+#nginx configuration
 ```
 if ($http_origin ~ haiziwang\.com(:\d+)?$) {
   add_header 'Access-Control-Allow-Origin' "$http_origin";
